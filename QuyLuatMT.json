@@ -1,0 +1,76 @@
+{
+  "ten_quy_luat": "Quy luật thống nhất và đấu tranh của các mặt đối lập",
+  "vi_tri_vai_tro": {
+    "ban_chat": "Là hạt nhân của phép biện chứng duy vật",
+    "ly_do": "Đề cập vấn đề cơ bản nhất: nguyên nhân, động lực của sự vận động, phát triển",
+    "trich_dan_Lenin": "Định nghĩa vắn tắt phép biện chứng là học thuyết về sự thống nhất của các mặt đối lập"
+  },
+  "cac_khai_niem": {
+    "mau_thuan_bien_chung": {
+      "dinh_nghia": "Sự liên hệ, tác động theo cách vừa thống nhất, vừa đấu tranh; vừa đòi hỏi, vừa loại trừ, vừa chuyển hóa lẫn nhau giữa các mặt đối lập",
+      "yeu_to_tao_thanh": "Các mặt đối lập, bộ phận, thuộc tính có khuynh hướng biến đổi trái ngược nhau nhưng cùng tồn tại khách quan trong mỗi sự vật, hiện tượng",
+      "he_qua": "Thống nhất và đấu tranh tạo nên trạng thái ổn định tương đối của sự vật"
+    },
+    "thong_nhat_giua_cac_mat_doi_lap": {
+      "dinh_nghia": "Sự liên hệ giữa các mặt đối lập",
+      "bieu_hien": [
+        "Các mặt đối lập cần đến nhau, nương tựa nhau, làm tiền đề tồn tại cho nhau",
+        "Các mặt đối lập tác động ngang nhau, cân bằng nhau, thể hiện sự đấu tranh giữa cái mới đang hình thành với cái cũ chưa mất hẳn",
+        "Giữa các mặt đối lập có sự tương đồng, đồng nhất do còn tồn tại những yếu tố giống nhau, nên trong điều kiện phù hợp chúng chuyển hóa vào nhau"
+      ],
+      "luu_y": "Đồng nhất không tách rời khác nhau, đối lập; trong đồng nhất đã bao hàm khác nhau, đối lập"
+    },
+    "dau_tranh_giua_cac_mat_doi_lap": {
+      "dinh_nghia": "Sự tác động qua lại theo hướng bài trừ, phủ định lẫn nhau giữa các mặt đối lập, không tách rời sự thống nhất",
+      "so_sanh_voi_thong_nhat": {
+        "thong_nhat": "Tạm thời, tương đối, có điều kiện; chỉ tồn tại ở trạng thái đứng im tương đối",
+        "dau_tranh": "Tuyệt đối; phá vỡ sự ổn định tương đối, dẫn đến chuyển hóa về chất; gắn với sự tự thân vận động, phát triển không ngừng"
+      },
+      "trich_dan_Lenin": "Sự phát triển là một cuộc đấu tranh giữa các mặt đối lập"
+    }
+  },
+  "phan_loai_mau_thuan": {
+    "tinh_chat_chung": "Mâu thuẫn tồn tại khách quan, phổ biến, đa dạng; mỗi loại có đặc điểm và vai trò riêng",
+    "theo_vai_tro_doi_voi_ca_qua_trinh": {
+      "mau_thuan_co_ban": "Tác động suốt quá trình tồn tại; quy định bản chất, sự phát triển của sự vật từ khi hình thành đến lúc tiêu vong",
+      "mau_thuan_khong_co_ban": "Đặc trưng cho một phương diện nào đó; chỉ quy định một hay một số mặt; chịu sự chi phối của mâu thuẫn cơ bản"
+    },
+    "theo_vai_tro_trong_tung_giai_doan": {
+      "mau_thuan_chu_yeu": "Luôn nổi lên hàng đầu ở mỗi giai đoạn, quy định các mâu thuẫn khác; giải quyết nó tạo điều kiện giải quyết các mâu thuẫn khác",
+      "mau_thuan_thu_yeu": "Không đóng vai trò quyết định",
+      "luu_y": "Ranh giới chủ yếu và thứ yếu chỉ mang tính tương đối, tùy hoàn cảnh cụ thể"
+    },
+    "theo_quan_he_voi_su_vat": {
+      "mau_thuan_ben_trong": "Tác động qua lại giữa các mặt, khuynh hướng đối lập nằm trong chính sự vật; quy định trực tiếp quá trình vận động, phát triển",
+      "mau_thuan_ben_ngoai": "Xuất hiện trong quan hệ giữa các sự vật với nhau; ảnh hưởng đến sự vật nhưng phải thông qua mâu thuẫn bên trong mới phát huy tác dụng",
+      "luu_y": "Sự phân chia chỉ mang tính tương đối"
+    },
+    "theo_tinh_chat_loi_ich_co_ban": {
+      "mau_thuan_doi_khang": "Giữa các giai cấp, tập đoàn, lực lượng, xu hướng xã hội có lợi ích cơ bản đối lập, không thể điều hòa; ví dụ bóc lột và bị bóc lột, thống trị và bị trị",
+      "mau_thuan_khong_doi_khang": "Lợi ích cơ bản không đối lập nhau; mang tính cục bộ, tạm thời"
+    }
+  },
+  "vai_tro_cua_mau_thuan": {
+    "quan_diem_Angghen": "Nguyên nhân chính và cuối cùng tạo nên nguồn gốc vận động, phát triển là sự tác động lẫn nhau giữa các mặt đối lập (theo hướng phủ định, thống nhất)",
+    "hai_loai_tac_dong": {
+      "ben_ngoai": "Tác động lẫn nhau giữa các sự vật, hiện tượng",
+      "ben_trong": "Tác động lẫn nhau giữa các mặt đối lập của cùng một sự vật; chỉ loại này mới làm sự vật phát triển"
+    },
+    "quan_he_giua_cac_khai_niem": "Mâu thuẫn là nguyên nhân, giải quyết mâu thuẫn là động lực của vận động, phát triển; vì vậy vận động, phát triển là tự thân"
+  },
+  "noi_dung_khai_quat": "Mọi đối tượng đều bao gồm những mặt, khuynh hướng, lực lượng đối lập nhau tạo thành mâu thuẫn trong chính nó; sự thống nhất và đấu tranh giữa chúng là nguyên nhân, động lực bên trong của vận động và phát triển, làm cho cái cũ mất đi và cái mới ra đời",
+  "y_nghia_phuong_phap_luan": [
+    {
+      "thu_tu": "Thứ nhất",
+      "noi_dung": "Thừa nhận tính khách quan của mâu thuẫn; giải quyết mâu thuẫn phải tuân theo quy luật, điều kiện khách quan; muốn phát hiện mâu thuẫn cần tìm ra thể thống nhất của các mặt đối lập trong sự vật, hiện tượng, từ đó tìm ra phương hướng, giải pháp đúng cho hoạt động nhận thức và thực tiễn"
+    },
+    {
+      "thu_tu": "Thứ hai",
+      "noi_dung": "Phân tích mâu thuẫn bắt đầu từ việc xem xét quá trình phát sinh, phát triển của từng loại mâu thuẫn; xem xét vai trò, vị trí và mối quan hệ giữa các mâu thuẫn và điều kiện chuyển hóa giữa chúng; phải phân tích cụ thể một mâu thuẫn cụ thể và đề ra phương pháp giải quyết phù hợp"
+    },
+    {
+      "thu_tu": "Thứ ba",
+      "noi_dung": "Nắm vững nguyên tắc giải quyết mâu thuẫn bằng đấu tranh giữa các mặt đối lập; không điều hòa mâu thuẫn, cũng không nóng vội hay bảo thủ, vì giải quyết mâu thuẫn còn phụ thuộc vào điều kiện đã đủ và chín muồi hay chưa"
+    }
+  ]
+}
